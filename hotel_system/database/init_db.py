@@ -62,7 +62,7 @@ def inicializar():
 
     except Exception as erro:
         print()
-        print("❌ Erro ao inicializar o banco:")
+        print(" Erro ao inicializar o banco:")
         print(f"   {erro}")
         sys.exit(1)
 
