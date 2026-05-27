@@ -1,0 +1,10 @@
+# Banco de dados
+sqlalchemy==2.0.50
+pymysql==1.2.0
+python-dotenv==1.2.2
+
+# Frontend
+streamlit>=1.35.0
+
+# Utilitários
+pandas>=2.0.0
